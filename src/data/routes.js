@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Summer Nairn',
     path: '/',
   },
   {
@@ -13,7 +13,7 @@ const routes = [
     path: '/resume',
   },
   {
-    label: 'Projects',
+    label: 'Portfolio',
     path: '/projects',
   },
   {
