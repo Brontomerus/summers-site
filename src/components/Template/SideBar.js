@@ -19,9 +19,11 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Summer. I like architecting residential structures.
-        I am currently in my final year studying Architecture at [Kent State University](https://www.kent.edu/caed). I like dogs, have a samoyed named Loki, and
-        have an awesome boyfriend (He made the website so I don't have a say in that being included).
+      <p>Hi, Im Summer. I like architecting residential structures.
+        I am currently in my final year studying Architecture at 
+        [Kent State University](https://www.kent.edu/caed). 
+        I like dogs, have a samoyed named Loki, and have an awesome 
+        boyfriend (He made the website so I don't have a say in that being included).
       </p>
       <ul className="actions">
         <li>
