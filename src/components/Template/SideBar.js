@@ -20,9 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I am Summer! I like architecting residential structures.
-        I am currently in my final year studying Architecture at
-        [Kent State University](https://www.kent.edu/caed).
-        I like dogs, have a samoyed named Loki, and have an awesome
+        I am currently in my final year studying Architecture at Kent State 
+        University. I like dogs, have a samoyed named Loki, and have an awesome
         boyfriend (He made the website so I dont have a say in that being included).
       </p>
       <ul className="actions">
